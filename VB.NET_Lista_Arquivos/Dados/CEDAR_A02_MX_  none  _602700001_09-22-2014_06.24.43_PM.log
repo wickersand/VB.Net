@@ -1,0 +1,80 @@
+
+			TLWin Session Data Log - TaskLink Version 7.90
+
+Date Logged:		09-22-2014 06:24:43 PM
+Task Name:		CEDAR_A02_MX
+User ID:		Administrator Mode
+System:			PP/PS Series FlashCORE
+Machine ID:		602700001
+
+Device:			MACRONIX MX25L6473EM2 SO8
+Data Source:		c:\pcebg_projects\cedar\3442a02.bin
+Sumcheck:		5488DC0B
+Process:		Continuity/Blank Check/ID Check/Erase/Program/Verify/Auto Secure/Mark/Vision
+Process Status:		Job Begin Status: New Job, Job End Status: Stopped
+TLWin Session ID:	< none >
+
+Job Start Time:		09-22-2014 08:58:13 AM
+Job End Time:		09-22-2014 06:24:43 PM
+Devices Total:		2310
+Devices Passed:		2308
+Devices Failed:		2
+Overall Device Yield:	99.91%
+
+Task Description:	MX25L6473E
+
+Nominal Throughput:	628 dph
+Job Throughput:		249 dph
+Devices Picked Input:	2348
+Devices Failed Vision:	34
+Devices Failed REST:	0
+Devices Missing/In Use:	38
+
+Job Elapsed Time:	9 Hours 0 Minutes 26 Seconds
+Job Setup Time:		0 Hours 0 Minutes 10 Seconds
+Job Processing Time:	3 Hours 0 Minutes 41 Seconds
+Job Assistance Time:	5 Hours 0 Minutes 33 Seconds
+Job Shutdown Time:	0 Hours 0 Minutes 0 Seconds
+
+Algorithm:		4047810C.ELF
+Algorithm Status:	Released
+Algorithm Author:	Data I/O
+Alg COM Dll:		< not used >
+Alg COM Dll Version:	< not used >
+
+TaskLink Version:	7.90
+AH500 Version:		6.5.0
+Firmware Version:	05.52.00.C
+Serialization Program:	< not used >
+Serialization Prog Ver:	< not used >
+
+Input Media:		Tape
+Output Media:		Tape
+Reject 1:		Tray 1
+Reject 2:		n/a
+
+Starting Serial Number:	N.A.
+Ending Serial Number:	N.A.
+Unused Serial Numbers:	N.A.
+
+
+Category:	PASS, CF, NB, IB, PF,VF1,VF2,FT1,FT2,SFF,SFB, DO, EF,EID, OE
+TotalStats:	2309,  3,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  1,  0
+Site 1 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 1:	 309,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 2:	 309,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 3:	 307,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 4:	 306,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 1:	 273,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 2:	 270,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 3:	 268,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 4:	 267,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1,  0
+
+--------------------------------------------------------------------------------

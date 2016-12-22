@@ -1,0 +1,80 @@
+
+			TLWin Session Data Log - TaskLink Version 7.90
+
+Date Logged:		01-16-2015 02:10:28 PM
+Task Name:		MAPLE_A06_WB
+User ID:		Operator Mode
+System:			PP/PS Series FlashCORE
+Machine ID:		602700001
+
+Device:			WINBOND_ELECTRONICS W25Q64FV-SS-Q SO8
+Data Source:		c:\pcebg_projects\maple\zava0_8m.bin
+Sumcheck:		61B7D4CD
+Process:		Continuity/Blank Check/ID Check/Erase/Program/Verify/Mark/Vision
+Process Status:		Job Begin Status: Continue, Job End Status: Completed
+TLWin Session ID:	< none >
+
+Job Start Time:		01-15-2015 10:14:19 PM
+Job End Time:		01-16-2015 02:10:28 PM
+Devices Total:		7209
+Devices Passed:		7190
+Devices Failed:		19
+Overall Device Yield:	99.74%
+
+Task Description:	W25Q64FVS
+
+Nominal Throughput:	692 dph
+Job Throughput:		330 dph
+Devices Picked Input:	7232
+Devices Failed Vision:	3
+Devices Failed REST:	0
+Devices Missing/In Use:	23
+
+Job Elapsed Time:	15 Hours 0 Minutes 56 Seconds
+Job Setup Time:		0 Hours 0 Minutes 4 Seconds
+Job Processing Time:	7 Hours 0 Minutes 34 Seconds
+Job Assistance Time:	8 Hours 0 Minutes 16 Seconds
+Job Shutdown Time:	0 Hours 0 Minutes 0 Seconds
+
+Algorithm:		3605410C.ELF
+Algorithm Status:	Beta
+Algorithm Author:	Data I/O
+Alg COM Dll:		< not used >
+Alg COM Dll Version:	< not used >
+
+TaskLink Version:	7.90
+AH500 Version:		6.5.0
+Firmware Version:	05.52.00.C
+Serialization Program:	< not used >
+Serialization Prog Ver:	< not used >
+
+Input Media:		Tape
+Output Media:		Tape
+Reject 1:		Tray 1
+Reject 2:		n/a
+
+Starting Serial Number:	N.A.
+Ending Serial Number:	N.A.
+Unused Serial Numbers:	N.A.
+
+
+Category:	PASS, CF, NB, IB, PF,VF1,VF2,FT1,FT2,SFF,SFB, DO, EF,EID, OE
+TotalStats:	7196,  1,  0,  0,  1,  7,  0,  0,  0,  0,  0,  0,  0, 11,  0
+Site 1 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 1:	 898,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  3,  0
+Site 3 Skt 2:	 899,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 3:	 894,  0,  0,  0,  0,  3,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 4:	 896,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 1:	 906,  0,  0,  0,  0,  2,  0,  0,  0,  0,  0,  0,  0,  3,  0
+Site 4 Skt 2:	 900,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  4,  0
+Site 4 Skt 3:	 903,  0,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  1,  0
+Site 4 Skt 4:	 900,  1,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Release\Lista_Arquivos.exe
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Release\Lista_Arquivos.pdb
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Release\Lista_Arquivos.xml
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.CSV_Creator_Form.resources
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.Graphic_Table_Form.resources
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.Resources.resources
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.vbproj.GenerateResource.Cache
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.exe
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.xml
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Release\Lista_Arquivos.pdb

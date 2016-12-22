@@ -1,0 +1,80 @@
+
+			TLWin Session Data Log - TaskLink Version 7.90
+
+Date Logged:		09-09-2014 11:22:49 AM
+Task Name:		LANIKAI7_A15_SP1
+User ID:		Administrator Mode
+System:			PP/PS Series FlashCORE
+Machine ID:		602700001
+
+Device:			MACRONIX MX25L3206EM2 SO8
+Data Source:		c:\pcebg_projects\lanikai\o7010a15(4mb).bin
+Sumcheck:		30A7675B
+Process:		Continuity/Blank Check/ID Check/Erase/Program/Verify/Auto Secure/Mark/Vision
+Process Status:		Job Begin Status: Continue, Job End Status: Stopped
+TLWin Session ID:	< none >
+
+Job Start Time:		09-09-2014 11:01:36 AM
+Job End Time:		09-09-2014 11:22:49 AM
+Devices Total:		1474
+Devices Passed:		1461
+Devices Failed:		13
+Overall Device Yield:	99.12%
+
+Task Description:	MX25L3206E
+
+Nominal Throughput:	722 dph
+Job Throughput:		424 dph
+Devices Picked Input:	1480
+Devices Failed Vision:	5
+Devices Failed REST:	0
+Devices Missing/In Use:	6
+
+Job Elapsed Time:	0 Hours 0 Minutes 21 Seconds
+Job Setup Time:		0 Hours 0 Minutes 2 Seconds
+Job Processing Time:	0 Hours 0 Minutes 11 Seconds
+Job Assistance Time:	0 Hours 0 Minutes 7 Seconds
+Job Shutdown Time:	0 Hours 0 Minutes 0 Seconds
+
+Algorithm:		5338810C.ELF
+Algorithm Status:	Released
+Algorithm Author:	Data I/O
+Alg COM Dll:		< not used >
+Alg COM Dll Version:	< not used >
+
+TaskLink Version:	7.90
+AH500 Version:		6.5.0
+Firmware Version:	05.52.00.C
+Serialization Program:	< not used >
+Serialization Prog Ver:	< not used >
+
+Input Media:		Tape
+Output Media:		Tape
+Reject 1:		Tray 1
+Reject 2:		n/a
+
+Starting Serial Number:	N.A.
+Ending Serial Number:	N.A.
+Unused Serial Numbers:	N.A.
+
+
+Category:	PASS, CF, NB, IB, PF,VF1,VF2,FT1,FT2,SFF,SFB, DO, EF,EID, OE
+TotalStats:	1461,  4,  0,  0,  0,  9,  0,  0,  0,  0,  0,  0,  0,  4,  0
+Site 1 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 1 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 1:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 2:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 3:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 2 Skt 4:	   0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 1:	 199,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 2:	 199,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 3 Skt 3:	 195,  0,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  3,  0
+Site 3 Skt 4:	 199,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 1:	  68,  4,  0,  0,  0,  2,  0,  0,  0,  0,  0,  0,  0,  1,  0
+Site 4 Skt 2:	 201,  0,  0,  0,  0,  2,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 3:	 200,  0,  0,  0,  0,  2,  0,  0,  0,  0,  0,  0,  0,  0,  0
+Site 4 Skt 4:	 200,  0,  0,  0,  0,  2,  0,  0,  0,  0,  0,  0,  0,  0,  0
+
+--------------------------------------------------------------------------------

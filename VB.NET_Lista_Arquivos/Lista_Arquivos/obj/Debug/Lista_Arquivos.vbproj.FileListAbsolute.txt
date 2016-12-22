@@ -1,0 +1,11 @@
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Debug\Lista_Arquivos.exe
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Debug\Lista_Arquivos.pdb
+F:\Projects\Lista_Arquivos\Lista_Arquivos\bin\Debug\Lista_Arquivos.xml
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.Resources.resources
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.vbproj.GenerateResource.Cache
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.exe
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.xml
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.pdb
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.vbprojResolveAssemblyReference.cache
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.CSV_Creator_Form.resources
+F:\Projects\Lista_Arquivos\Lista_Arquivos\obj\Debug\Lista_Arquivos.Graphic_Table_Form.resources
